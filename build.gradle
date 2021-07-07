@@ -50,7 +50,7 @@ tasks.withType(Test){
        }
 }
 
-task runSmokeSuite(type: Test){
+task runTest(type: Test){
 include "**/ExampleRunner.class"
 reports{
 junitXml.enabled=false

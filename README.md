@@ -1,2 +1,0 @@
-# RestAPIAutomation
-RestAPIAutomation for Interview
